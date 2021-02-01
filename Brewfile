@@ -46,8 +46,6 @@ brew "geckodriver"
 cask "chromedriver"
 
 # IDE/Editors
-cask "atom"
-cask "sublime-text"
 cask "visual-studio-code"
 
 # Version Control
